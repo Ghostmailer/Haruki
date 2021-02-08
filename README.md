@@ -13,6 +13,9 @@ News channel as at [KoroSensei Update](https://t.me/KorosenseiUpdate)
 
 ## How to setup/deploy.
 
+# DEPLOY TO HEROKU
+* [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prothinkergang/anonymous-bot)
+
 ### Read these notes carefully before proceeding 
  - Edit any mentions of @KoroSenseiSupport to your own support chat
 
